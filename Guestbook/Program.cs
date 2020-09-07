@@ -14,6 +14,7 @@ namespace Guestbook
             Console.WriteLine(DateTime.Now.ToString("dd-MM-yyyy") + ": Pedro Lagerström was here!");
             Console.WriteLine(DateTime.Now.ToString("dd-MM-yyyy") + ": Dylan Abdul-Rahman was here!");
             Console.WriteLine(DateTime.Now.ToString("dd-MM-yyyy") + ": Meda Krasniqi was here!");
+            Console.WriteLine(DateTime.Now.ToString("dd-MM-yyyy") + ": Lucas Ersson was here!");
 
             Console.WriteLine(DateTime.Now.ToString("dd-MM-yyyy") + ": Martina was here again!");
 
